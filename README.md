@@ -7,9 +7,18 @@ Main projects
 -  opendance.life - portal with announces
 -  DanceDigestBot - telegram bot for getting announces
 
+Key commercial technologies:
+- php, laravel
+- node, express.js, nest.js
+- client JavaScript, ECMASCript,
+- PostgreSQL, MongoDB
+
+Alternative technologies:
+- python, FastAPI, flask, Django
+
   
   I am proud of:
-  - web searcher ,which uses parser of medical documents
+  - web searcher, which uses parser of medical documents
 
 
 <!--
