@@ -1,21 +1,15 @@
 ### Hi there 👋
-- 🔭 I’m currently working on tgCRM
+- 🔭 I’m php/javascript fullstack developer
 -  📫 How to reach me: telegram - @helvetian
 
-Main projects
--  tgCRM
--  opendance.life - portal with announces
--  DanceDigestBot - telegram bot for getting announces
-
 Key commercial technologies:
-- php, laravel
+- php, laravel, symfony, laravel
 - node, express.js, nest.js
 - client JavaScript, ECMASCript,
 - PostgreSQL, MongoDB
 
 Alternative technologies:
 - python, FastAPI, flask, Django
-
   
   I am proud of:
   - web searcher, which uses parser of medical documents
